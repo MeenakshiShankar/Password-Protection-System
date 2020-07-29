@@ -7,9 +7,13 @@ The circuit designing uses Proteus and Keil Vision for programing in C.
 Components Used:
 
 -->AT89C51
+
 -->Keypad
+
 -->DC Motor
+
 -->LCD 20x2 module
 
 Hope you find this documentation useful.
+
 😊
